@@ -1,4 +1,3 @@
-# capz
 Convert string to alternate casing
 
 # Usage
